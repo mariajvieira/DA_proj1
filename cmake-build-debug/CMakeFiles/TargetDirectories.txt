@@ -1,0 +1,3 @@
+/Users/duartemarques/Desktop/Da/cmake-build-debug/CMakeFiles/Da.dir
+/Users/duartemarques/Desktop/Da/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duartemarques/Desktop/Da/cmake-build-debug/CMakeFiles/rebuild_cache.dir
